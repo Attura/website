@@ -1,0 +1,60 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    font-family: Verdana;
+    text-align: center
+}
+
+.header{
+    font-size: 3em;
+}
+
+.subheader{
+    font-size: 2em;
+}
+
+.section1{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section1 .container{
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    background: rgba(207, 207, 207, 0.7);
+}
+
+.logo-box, .right-button, .left-button{
+    height: 76px;
+}
+
+.logo{
+    height: 56px;
+    width: 80px;
+    margin: 20px;
+}
+
+.right-button, .left-button, .logo{
+    display: inline-block;
+}
+
+.right-button, .left-button{
+    width: 76px;
+    margin: 0 0 10px 0;
+}
+
+.section2{
+    position: absolute;
+    top: 100%;
+}
+
+.container2{
+    height: 100%;
+}
