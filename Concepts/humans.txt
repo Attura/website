@@ -1,0 +1,24 @@
+/* TEAM */
+    Lead Web Designer, Developer and CEO: Ben O'Sullivan
+    Site: BenOSU.com.au
+    Twitter: @Bigbeno37
+    Location: Melbourne, Australia
+    
+    Lead Storyline Editor, Developer and CEO: Oliver MacPherson
+    Location: Melbourne, Australia
+    
+    Lead Musical Artist, Map Designer and Co-Script Editor: Tim Trewin
+    Location: Melbourne, Australia
+    
+    Lead Artist: Tyler Drew
+    Location: Melbourne, Australia
+
+/* THANKS */
+
+    <name>
+
+/* SITE */
+    Language: English, Italian
+    Doctype: HTML5
+    Components: HTML5, CSS3, jQuery, Modernizr, Initializr (HTML5 Boilerplate + Bootstrap)
+    Software: Sublime Text, paint.NET, FileZilla
